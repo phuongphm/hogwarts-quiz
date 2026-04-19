@@ -12,7 +12,7 @@ An interactive quiz that sorts users into a Hogwarts house based on their person
 👉 https://phuongphm.github.io/hogwarts-quiz/
 
 ## Preview
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ## Tech Stack
 - HTML
