@@ -8,9 +8,6 @@ An interactive quiz that sorts users into a Hogwarts house based on their person
 - Randomized answers
 - Simple and clean UI
 
-## Demo
-👉 https://phuongphm.github.io/hogwarts-quiz/
-
 ## Preview
 ![Preview](Preview.png)
 
